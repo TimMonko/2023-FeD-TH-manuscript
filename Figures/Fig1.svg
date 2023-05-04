@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Fig1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.7852694"
+     inkscape:cx="200.52996"
+     inkscape:cy="489.00184"
+     inkscape:window-width="1731"
+     inkscape:window-height="1243"
+     inkscape:window-x="1972"
+     inkscape:window-y="41"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="31.595923,260.42629"
+       orientation="1,0"
+       id="guide4289"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50.354364,253.35257"
+       orientation="1,0"
+       id="guide4291"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient15626">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop15622" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop15624" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-7-7-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9-6-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-3" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15626"
+       id="linearGradient15628"
+       x1="53.236248"
+       y1="122.40145"
+       x2="71.261124"
+       y2="156.35529"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#000000;stroke-width:0.264583"
+       x="49.893345"
+       y="58.439503"
+       id="text4209"><tspan
+         sodipodi:role="line"
+         id="tspan4207"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.264583"
+         x="49.893345"
+         y="58.439503">Pvalb</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#000000;stroke-width:0.264583"
+       x="42.441006"
+       y="35.762325"
+       id="text4263"><tspan
+         sodipodi:role="line"
+         id="tspan4261"
+         style="stroke-width:0.264583"
+         x="42.441006"
+         y="35.762325">Tfr1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#000000;stroke-width:0.264583"
+       x="18.705624"
+       y="48.181259"
+       id="text4267"><tspan
+         sodipodi:role="line"
+         id="tspan4265"
+         style="stroke-width:0.264583"
+         x="18.705624"
+         y="48.181259">Slc16a2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#000000;stroke-width:0.264583"
+       x="38.698433"
+       y="49.753666"
+       id="text4267-8"><tspan
+         sodipodi:role="line"
+         id="tspan4265-3"
+         style="font-style:normal;stroke-width:0.264583"
+         x="38.698433"
+         y="49.753666">TH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#000000;stroke-width:0.264583"
+       x="18.70771"
+       y="52.576599"
+       id="text4271"><tspan
+         sodipodi:role="line"
+         id="tspan4269"
+         style="stroke-width:0.264583"
+         x="18.70771"
+         y="52.576599">Slco1c1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#000000;stroke-width:0.264583"
+       x="18.479668"
+       y="56.578938"
+       id="text4275"><tspan
+         sodipodi:role="line"
+         id="tspan4273"
+         style="stroke-width:0.264583"
+         x="18.479668"
+         y="56.578938">Crym</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#000000;stroke-width:0.264583"
+       x="49.926792"
+       y="49.529621"
+       id="text4279"><tspan
+         sodipodi:role="line"
+         id="tspan4277"
+         style="stroke-width:0.264583"
+         x="49.926792"
+         y="49.529621">Klf9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#000000;stroke-width:0.264583"
+       x="18.597946"
+       y="60.353004"
+       id="text4283"><tspan
+         sodipodi:role="line"
+         id="tspan4281"
+         style="stroke-width:0.264583"
+         x="18.597946"
+         y="60.353004">Hr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#000000;stroke-width:0.264583"
+       x="49.874401"
+       y="53.931038"
+       id="text4287"><tspan
+         sodipodi:role="line"
+         id="tspan4285"
+         style="stroke-width:0.264583"
+         x="49.874401"
+         y="53.931038">Nrgn</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;stroke-width:0.264583"
+       x="31.364628"
+       y="27.313286"
+       id="text4295"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="31.364628"
+         y="27.313286"
+         id="tspan5970">Iron Deficiency</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;stroke-width:0.264583"
+       x="31.516064"
+       y="73.212296"
+       id="text4295-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="31.516064"
+         y="73.212296"
+         id="tspan5970-2">Iron Repletion</tspan></text>
+    <path
+       style="fill:#000000;stroke:#666666;stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleStart)"
+       d="M 40.451166,42.298896 V 28.492055"
+       id="path4351"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#666666;stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleStart-6)"
+       d="M 48.070592,50.685629 H 34.263751"
+       id="path4351-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#666666;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleStart-7)"
+       d="M 17.62123,47.22411 V 44.982257"
+       id="path4351-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#666666;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleStart-7-7-8)"
+       d="m 51.363024,33.640651 v 2.241853"
+       id="path4351-9-3-9"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:14.9402;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       x="59.281437"
+       y="93.071854"
+       id="text15560"
+       transform="translate(-14.863767,112.96709)"><tspan
+         x="59.281437"
+         y="93.071854"
+         id="tspan29192"><tspan
+           style="fill:url(#linearGradient15628)"
+           id="tspan29190">E16 Wild-</tspan></tspan><tspan
+         x="59.281437"
+         y="96.158655"
+         id="tspan29196"><tspan
+           style="fill:url(#linearGradient15628)"
+           id="tspan29194">Type Mouse </tspan></tspan><tspan
+         x="59.281437"
+         y="99.245454"
+         id="tspan29200"><tspan
+           style="fill:url(#linearGradient15628)"
+           id="tspan29198">Hippocampal </tspan></tspan><tspan
+         x="59.281437"
+         y="102.33225"
+         id="tspan29204"><tspan
+           style="fill:url(#linearGradient15628)"
+           id="tspan29202">Neurons </tspan></tspan><tspan
+         x="59.281437"
+         y="105.41905"
+         id="tspan29208"><tspan
+           style="fill:url(#linearGradient15628)"
+           id="tspan29206">Plated and </tspan></tspan><tspan
+         x="59.281437"
+         y="108.50585"
+         id="tspan29212"><tspan
+           style="fill:url(#linearGradient15628)"
+           id="tspan29210">Grown in </tspan></tspan><tspan
+         x="59.281437"
+         y="111.59265"
+         id="tspan29216"><tspan
+           style="fill:url(#linearGradient15628)"
+           id="tspan29214">FeS Media</tspan></tspan></text>
+    <path
+       d="m 41.986774,240.45764 c 0,-0.46964 0.380735,-0.8503 0.850395,-0.8503 h 18.004248 c 0.469661,0 0.85039,0.38066 0.85039,0.8503 v 3.40139 c 0,0.46982 -0.380729,0.85048 -0.85039,0.85048 H 42.837169 c -0.46966,0 -0.850395,-0.38066 -0.850395,-0.85048 z"
+       style="fill:#525252;fill-opacity:0.302;fill-rule:evenodd;stroke:none;stroke-width:0.176558"
+       id="path17280" />
+    <g
+       id="g17282"
+       transform="matrix(1.390219e-5,0,0,1.390219e-5,41.986774,239.60734)">
+      <path
+         d="M 0,61169.97 C 0,27386.73 27386.64,0 61169.77,0 H 1356235 c 33783,0 61170,27386.73 61170,61169.97 V 305839 c 0,33783.3 -27387,61170 -61170,61170 H 61169.77 C 27386.64,367009 0,339622.3 0,305839 Z"
+         style="fill:none;stroke:#000000;stroke-width:6350;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17284" />
+    </g>
+    <path
+       d="m 89.851154,240.27243 c 0,-0.52066 0.422185,-0.94299 0.942978,-0.94299 h 47.014808 c 0.52079,0 0.94297,0.42233 0.94297,0.94299 v 3.77181 c 0,0.52084 -0.42218,0.94299 -0.94297,0.94299 H 90.794132 c -0.520793,0 -0.942978,-0.42215 -0.942978,-0.94299 z"
+       style="fill:#525252;fill-opacity:0.302;fill-rule:evenodd;stroke:none;stroke-width:0.176558"
+       id="path17298" />
+    <g
+       id="g17300"
+       transform="matrix(1.390219e-5,0,0,1.390219e-5,89.851154,239.32944)">
+      <path
+         d="M 0,67830.26 C 0,30368.64 30368.57,0 67830.1,0 H 3449657 c 37461,0 67830,30368.64 67830,67830.26 V 339139.7 c 0,37461.7 -30369,67830.3 -67830,67830.3 H 67830.1 C 30368.57,406970 0,376601.4 0,339139.7 Z"
+         style="fill:none;stroke:#000000;stroke-width:6350;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17302" />
+    </g>
+    <path
+       d="m 143.1407,240.22865 c 0,-0.53303 0.43202,-0.96489 0.96492,-0.96489 h 10.01387 c 0.53292,0 0.96492,0.43186 0.96492,0.96489 v 3.85955 c 0,0.53285 -0.432,0.96489 -0.96492,0.96489 h -10.01387 c -0.5329,0 -0.96492,-0.43204 -0.96492,-0.96489 z"
+       style="fill:#525252;fill-opacity:0.302;fill-rule:evenodd;stroke:none;stroke-width:0.176558"
+       id="path17316" />
+    <g
+       id="g17318"
+       transform="matrix(1.390219e-5,0,0,1.390219e-5,143.1407,239.26376)">
+      <path
+         d="M 0,69407.41 C 0,31074.76 31074.72,0 69407.34,0 H 789716.7 C 828049.3,0 859124,31074.76 859124,69407.41 V 347028.6 c 0,38332.7 -31074.7,69407.4 -69407.3,69407.4 H 69407.34 C 31074.72,416436 0,385361.3 0,347028.6 Z"
+         style="fill:none;stroke:#000000;stroke-width:6350;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17320" />
+    </g>
+    <g
+       id="g17334"
+       transform="matrix(0.04237387,0,0,-0.04237387,155.08441,488.20816)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17338"><tspan
+           x="0 60.939999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17336">Fe</tspan></text>
+    </g>
+    <g
+       id="g17340"
+       transform="matrix(0.04237387,0,0,-0.04237387,160.02803,488.20816)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17344"><tspan
+           x="0"
+           y="0"
+           id="tspan17342">-</tspan></text>
+    </g>
+    <g
+       id="g17346"
+       transform="matrix(0.04237387,0,0,-0.04237387,161.44049,488.20816)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17350"><tspan
+           x="0 66.669998 127.64 161.00999 194.38 221.95 277.72 305.29001 361.06 422.03 455.39999 482.97"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17348">Sufficient (</tspan></text>
+    </g>
+    <g
+       id="g17352"
+       transform="matrix(0.04237387,0,0,-0.04237387,183.31159,488.20816)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17356"><tspan
+           x="0 60.939999 116.68"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17354">FeS</tspan></text>
+    </g>
+    <g
+       id="g17358"
+       transform="matrix(0.04237387,0,0,-0.04237387,191.08013,488.20816)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17362"><tspan
+           x="0"
+           y="0"
+           id="tspan17360">)</tspan></text>
+    </g>
+    <path
+       d="m 59.851669,202.92428 h 89.238801 v 7.6273 H 59.851669 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.176558"
+       id="path17364" />
+    <g
+       id="g17366"
+       transform="matrix(1.390219e-5,0,0,1.390219e-5,59.851669,202.92428)">
+      <path
+         d="M 0,0 H 6419046 V 548640 H 0 Z"
+         style="fill:none;stroke:#000000;stroke-width:6350;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17368" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="81.950287"
+       y="208.01958"
+       id="text19594"><tspan
+         sodipodi:role="line"
+         id="tspan19592"
+         style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="81.950287"
+         y="208.01958">FeS Media + Vehicle</tspan></text>
+    <g
+       id="g17388"
+       transform="matrix(0.04237387,0,0,-0.04237387,31.904878,516.30204)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17392"><tspan
+           x="0 54.165001 95.834999 133.33501 170.83501"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17390">Days </tspan></text>
+    </g>
+    <g
+       id="g17394"
+       transform="matrix(0.04237387,0,0,-0.04237387,31.695286,519.88377)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-style:italic;font-variant:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17398"><tspan
+           x="0 16.665001 58.334999 79.169998 116.67 133.33501 154.17 179.1675"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17396">in vitro</tspan></text>
+    </g>
+    <g
+       id="g17400"
+       transform="matrix(0.04237387,0,0,-0.04237387,31.904878,523.88696)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17404"><tspan
+           x="0 24.997499 79.169998 99.967499 149.94"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17402">(DIV)</tspan></text>
+    </g>
+    <path
+       d="m 59.851669,212.23753 h 89.194641 v 7.62729 H 59.851669 Z"
+       style="fill:#e7e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.176558"
+       id="path17406" />
+    <path
+       d="m 37.269421,154.54742 h 89.194639 v 7.62729 H 37.269421 Z"
+       style="fill:#e7e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:0.176558;stroke-opacity:1"
+       id="path17406-1" />
+    <path
+       d="M 37.227163,142.42884 H 126.4218 v 7.62729 H 37.227163 Z"
+       style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:0.176558;stroke-opacity:1"
+       id="path17406-1-4" />
+    <path
+       d="m 31.6788,142.43466 h 5.568706 v 19.75981 H 31.6788 Z"
+       style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:0.176434;stroke-dasharray:none;stroke-opacity:1"
+       id="path17406-1-4-5" />
+    <g
+       id="g17408"
+       transform="matrix(1.390219e-5,0,0,1.390219e-5,59.851669,212.23753)">
+      <path
+         d="M 0,0 H 6415870 V 548640 H 0 Z"
+         style="fill:none;stroke:#000000;stroke-width:6350;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17410" />
+    </g>
+    <path
+       d="m 59.851669,221.75329 h 52.562301 v 7.62729 H 59.851669 Z"
+       style="fill:#e7e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.176558"
+       id="path17430" />
+    <g
+       id="g17432"
+       transform="matrix(1.390219e-5,0,0,1.390219e-5,59.851669,221.75329)">
+      <path
+         d="M 0,0 H 3780865 V 548640 H 0 Z"
+         style="fill:none;stroke:#000000;stroke-width:6350;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17434" />
+    </g>
+    <g
+       id="g17454"
+       transform="matrix(0.04237387,0,0,-0.04237387,43.169761,523.03949)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17458"><tspan
+           x="0"
+           y="0"
+           id="tspan17456">0</tspan></text>
+    </g>
+    <g
+       id="g17460"
+       transform="matrix(0.04237387,0,0,-0.04237387,59.019905,523.03949)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17464"><tspan
+           x="0"
+           y="0"
+           id="tspan17462">3</tspan></text>
+    </g>
+    <g
+       id="g17466"
+       transform="matrix(0.04237387,0,0,-0.04237387,94.471108,523.12423)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17470"><tspan
+           x="0 50.209999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17468">11</tspan></text>
+    </g>
+    <g
+       id="g17472"
+       transform="matrix(0.04237387,0,0,-0.04237387,130.99723,523.12423)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17476"><tspan
+           x="0 55.73"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17474">18</tspan></text>
+    </g>
+    <g
+       id="g17478"
+       transform="matrix(0.04237387,0,0,-0.04237387,146.75108,523.12423)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17482"><tspan
+           x="0 55.73"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17480">21</tspan></text>
+    </g>
+    <path
+       d="M 44.197446,235.97325 H 153.98094 v 0.4414 H 44.197446 Z m 109.562784,-0.44139 1.32418,0.66209 -1.32418,0.66209 z"
+       style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.176558"
+       id="path17484" />
+    <path
+       d="M 31.586581,167.9765 H 141.37008 v 0.4414 H 31.586581 Z m 109.562789,-0.44139 1.32418,0.66209 -1.32418,0.66209 z"
+       style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.176558"
+       id="path17484-0" />
+    <g
+       id="g17486"
+       transform="matrix(0,1.390219e-5,-1.390219e-5,0,44.219523,234.01964)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17488" />
+    </g>
+    <g
+       id="g17486-4"
+       transform="matrix(0,1.390219e-5,-1.390219e-5,0,31.83776,166.09739)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17488-5" />
+    </g>
+    <g
+       id="g17486-4-4"
+       transform="matrix(0,7.8541407e-6,-1.4150519e-5,0,36.829232,165.99928)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17488-5-3" />
+    </g>
+    <g
+       id="g17490"
+       transform="matrix(0,1.390219e-5,-1.390219e-5,0,59.873756,234.01964)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17492" />
+    </g>
+    <g
+       id="g17494"
+       transform="matrix(0,1.390219e-5,-1.390219e-5,0,96.737669,234.01964)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17496" />
+    </g>
+    <g
+       id="g17494-8-7"
+       transform="matrix(0,1.390219e-5,-1.390219e-5,0,67.977126,166.1205)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17496-7-1" />
+    </g>
+    <g
+       id="g17494-8-7-5"
+       transform="matrix(0,1.390219e-5,-1.390219e-5,0,139.86099,166.18831)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17496-7-1-5" />
+    </g>
+    <g
+       id="g17494-8-5"
+       transform="matrix(0,1.390219e-5,-1.390219e-5,0,104.11853,165.89152)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17496-7-9" />
+    </g>
+    <g
+       id="g17498"
+       transform="matrix(0,1.390219e-5,-1.390219e-5,0,133.38076,233.97797)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17500" />
+    </g>
+    <g
+       id="g17504"
+       transform="matrix(1.390219e-5,0,0,1.390219e-5,112.45815,221.75329)">
+      <path
+         d="M 0,0 H 2643034 V 548640 H 0 Z"
+         style="fill:none;stroke:#000000;stroke-width:6350;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17506" />
+    </g>
+    <g
+       id="g17508"
+       transform="matrix(0.04237387,0,0,-0.04237387,115.17166,504.60685)" />
+    <g
+       id="g17520"
+       transform="matrix(1.390219e-5,0,0,1.390219e-5,43.979333,202.92428)">
+      <path
+         d="M 0,0 H 1135361 V 1902916 H 0 Z"
+         style="fill:none;stroke:#000000;stroke-width:12700;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17522" />
+    </g>
+    <g
+       id="g17590"
+       transform="matrix(0,1.390219e-5,-1.390219e-5,0,149.11254,234.0802)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17592" />
+    </g>
+    <g
+       id="g17594"
+       transform="matrix(0.04237387,0,0,-0.04237387,110.69259,523.20898)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17598"><tspan
+           x="0 41.669998"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17596">14</tspan></text>
+    </g>
+    <g
+       id="g17600"
+       transform="matrix(0,1.390219e-5,-1.390219e-5,0,112.41399,233.97797)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17602" />
+    </g>
+    <g
+       id="g17604"
+       transform="matrix(0.04237387,0,0,-0.04237387,155.08441,497.53041)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17608"><tspan
+           x="0 60.939999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17606">Fe</tspan></text>
+    </g>
+    <g
+       id="g17610"
+       transform="matrix(0.04237387,0,0,-0.04237387,160.02803,497.53041)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17614"><tspan
+           x="0"
+           y="0"
+           id="tspan17612">-</tspan></text>
+    </g>
+    <g
+       id="g17616"
+       transform="matrix(0.04237387,0,0,-0.04237387,161.44049,497.53041)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17620"><tspan
+           x="0 72.400002 128.10001 161.39999 189 244.7 272.29999 328 388.89999 422.20001 449.79999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17618">Deficient (</tspan></text>
+    </g>
+    <g
+       id="g17622"
+       transform="matrix(0.04237387,0,0,-0.04237387,181.9212,497.53041)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17626"><tspan
+           x="0 60.939999 116.68"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17624">FeD</tspan></text>
+    </g>
+    <g
+       id="g17628"
+       transform="matrix(0.04237387,0,0,-0.04237387,189.93251,497.53041)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17632"><tspan
+           x="0"
+           y="0"
+           id="tspan17630">)</tspan></text>
+    </g>
+    <g
+       id="g17634"
+       transform="matrix(0.04237387,0,0,-0.04237387,155.1594,507.02216)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17638"><tspan
+           x="0 60.939999 116.68"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17636">FeD</tspan></text>
+    </g>
+    <g
+       id="g17640"
+       transform="matrix(0.04237387,0,0,-0.04237387,164.34038,507.02216)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17644"><tspan
+           x="0 58.330002 85.959999 146.89 202.62 230.25 302.67999 358.41 419.34 446.97 502.70001 536.03003 563.65997 624.59003 685.52002 713.15002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17642">+ Fe Repletion (</tspan></text>
+    </g>
+    <g
+       id="g17646"
+       transform="matrix(0.04237387,0,0,-0.04237387,195.9663,507.02216)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17650"><tspan
+           x="0 60.939999 116.68"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17648">FeR</tspan></text>
+    </g>
+    <g
+       id="g17652"
+       transform="matrix(0.04237387,0,0,-0.04237387,203.97763,507.02216)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,6599)"
+         style="font-variant:normal;font-weight:bold;font-size:100px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text17656"><tspan
+           x="0 39.060001"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17654">*)</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="84.941444"
+       y="217.2467"
+       id="text19594-1"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0"
+         style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="84.941444"
+         y="217.2467">FeS Media + DFO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="48.913155"
+       y="159.11676"
+       id="text19594-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="48.913155"
+         y="159.11676">Iron Sufficient Glia Conditioned Media + DFP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="45.738949"
+       y="147.58846"
+       id="text19594-1-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="45.738949"
+         y="147.58846">Iron Sufficient Glia Conditioned Media + Vehicle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="131.83418"
+       y="147.02614"
+       id="text19594-1-2-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="131.83418"
+         y="147.02614"><tspan
+   style="font-weight:bold"
+   id="tspan26971">CTL: </tspan>Iron Sufficient</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="131.59087"
+       y="159.47523"
+       id="text19594-1-2-7-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-7-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="131.59087"
+         y="159.47523"><tspan
+   style="font-weight:bold"
+   id="tspan26971-1">ID: </tspan>Iron Deficient</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="31.418129"
+       y="173.40636"
+       id="text19594-1-2-7-7-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-7-4-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="31.418129"
+         y="173.40636">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="67.043297"
+       y="173.19943"
+       id="text19594-1-2-7-7-6-9-93"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-7-4-2-79"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="67.043297"
+         y="173.19943">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="103.14775"
+       y="172.66615"
+       id="text19594-1-2-7-7-6-9-93-0"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-7-4-2-79-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="103.14775"
+         y="172.66615">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="138.78018"
+       y="172.99141"
+       id="text19594-1-2-7-7-6-9-93-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-7-4-2-79-4-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="138.78018"
+         y="172.99141">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="37.75742"
+       y="166.7459"
+       id="text19594-1-2-7-7-6-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-7-4-2-7"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="37.75742"
+         y="166.7459">3hrs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="44.126713"
+       y="139.67638"
+       id="text19594-1-2-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-0"
+         style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="44.126713"
+         y="139.67638">E14.5 Wild-Type Mouse Primary Neuron Cultures</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="64.800125"
+       y="226.88876"
+       id="text19594-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-2"
+         style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="64.800125"
+         y="226.88876">FeS Media + DFO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:27.8678;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="56.659054"
+       y="263.38339"
+       id="text19594-1-0-4"
+       transform="translate(-18.97006,-14.820359)"><tspan
+         x="56.659054"
+         y="263.38339"
+         id="tspan29220"><tspan
+           style="text-align:center;text-anchor:middle;stroke-width:0.3"
+           id="tspan29218">Establishment of </tspan></tspan><tspan
+         x="56.659054"
+         y="267.35214"
+         id="tspan29224"><tspan
+           style="text-align:center;text-anchor:middle;stroke-width:0.3"
+           id="tspan29222">axon and dendrites</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       x="59.726048"
+       y="193.55389"
+       id="text20635"><tspan
+         sodipodi:role="line"
+         id="tspan20633"
+         style="stroke-width:0.3"
+         x="59.726048"
+         y="193.55389">FeS: Iron Sufficient</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       x="-161.59126"
+       y="35.37698"
+       id="text20635-7"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20633-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.3"
+         x="-161.59126"
+         y="35.37698">Plating Media</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       x="59.478977"
+       y="197.78423"
+       id="text20635-0"><tspan
+         sodipodi:role="line"
+         id="tspan20633-6"
+         style="stroke-width:0.3"
+         x="59.478977"
+         y="197.78423">FeD: Iron Deficient</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       x="59.563484"
+       y="201.95302"
+       id="text20635-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan20633-6-7"
+         style="stroke-width:0.3"
+         x="59.563484"
+         y="201.95302">FeR: FeD + FeRepletion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:30.1796;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="119.30717"
+       y="197.65433"
+       id="text19594-8"
+       transform="translate(-2.9640719,26.82485)"><tspan
+         x="119.30717"
+         y="197.65433"
+         id="tspan29228"><tspan
+           style="stroke-width:0.3"
+           id="tspan29226">FeS Media + Vehicle </tspan></tspan><tspan
+         x="119.30717"
+         y="201.62308"
+         id="tspan29232"><tspan
+           style="stroke-width:0.3"
+           id="tspan29230">(DFO Removed)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:32.8326;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="72.553429"
+       y="263.38339"
+       id="text19594-1-0-4-1"
+       transform="translate(24.483708,-14.285269)"><tspan
+         x="72.553429"
+         y="263.38339"
+         id="tspan29236"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan29234">Peak dendritic growth </tspan></tspan><tspan
+         x="72.553429"
+         y="267.35214"
+         id="tspan29240"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan29238">and synapse formation</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:18.3086;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="77.532967"
+       y="263.38339"
+       id="text19594-1-0-4-1-3"
+       transform="translate(62.694484,-14.694233)"><tspan
+         x="77.532967"
+         y="263.38339"
+         id="tspan29244"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan29242">Mature </tspan></tspan><tspan
+         x="77.532967"
+         y="267.35214"
+         id="tspan29248"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan29246">Neuron</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;inline-size:10.0618;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       x="14.181009"
+       y="186.31049"
+       id="text20635-1"
+       transform="translate(6.3925417,-20.015991)"><tspan
+         x="14.181009"
+         y="186.31049"
+         id="tspan29250">Days </tspan><tspan
+         x="14.181009"
+         y="190.27923"
+         id="tspan29254"><tspan
+   style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+   id="tspan29252">in vitro</tspan> </tspan><tspan
+         x="14.181009"
+         y="194.24798"
+         id="tspan29256">(DIV)</tspan></text>
+    <path
+       d="m 37.205355,108.58447 h 89.194635 v 7.62729 H 37.205355 Z"
+       style="fill:#e7e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:0.176558;stroke-opacity:1"
+       id="path17406-1-5" />
+    <path
+       d="m 37.163097,96.465884 h 89.194633 v 7.627286 H 37.163097 Z"
+       style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:0.176558;stroke-opacity:1"
+       id="path17406-1-4-6" />
+    <path
+       d="M 31.614734,96.471704 H 37.18344 V 116.23152 H 31.614734 Z"
+       style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:0.176434;stroke-dasharray:none;stroke-opacity:1"
+       id="path17406-1-4-5-0" />
+    <path
+       d="M 31.522515,122.01355 H 141.30601 v 0.4414 H 31.522515 Z m 109.562785,-0.44139 1.32418,0.66209 -1.32418,0.66209 z"
+       style="fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.176558"
+       id="path17484-0-6" />
+    <g
+       id="g17486-4-5"
+       transform="matrix(0,1.390219e-5,-1.390219e-5,0,31.773694,120.13444)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17488-5-5" />
+    </g>
+    <g
+       id="g17486-4-4-6"
+       transform="matrix(0,7.8541407e-6,-1.4150519e-5,0,36.765166,120.03633)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17488-5-3-7" />
+    </g>
+    <g
+       id="g17494-8-7-0"
+       transform="matrix(0,1.390219e-5,-1.390219e-5,0,67.91306,120.15755)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17496-7-1-0" />
+    </g>
+    <g
+       id="g17494-8-7-5-7"
+       transform="matrix(0,1.390219e-5,-1.390219e-5,0,139.79692,120.22536)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17496-7-1-5-0" />
+    </g>
+    <g
+       id="g17494-8-5-1"
+       transform="matrix(0,1.390219e-5,-1.390219e-5,0,104.05446,119.92857)">
+      <path
+         d="M 0,0 304080,1588"
+         style="fill:none;stroke:#595959;stroke-width:31750;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path17496-7-9-2" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="48.849091"
+       y="113.15379"
+       id="text19594-1-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="48.849091"
+         y="113.15379">Iron Sufficient Glia Conditioned Media + DFP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="45.674885"
+       y="101.6255"
+       id="text19594-1-2-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="45.674885"
+         y="101.6255">Iron Sufficient Glia Conditioned Media + Vehicle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="3.1909099"
+       y="101.69196"
+       id="text19594-1-2-7-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-7-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="3.1909099"
+         y="101.69196"><tspan
+   style="font-weight:bold"
+   id="tspan26971-9">CTL: </tspan>Iron Sufficient</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="5.1431165"
+       y="113.30269"
+       id="text19594-1-2-7-7-6-91"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-7-4-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="5.1431165"
+         y="113.30269"><tspan
+   style="font-weight:bold"
+   id="tspan26971-1-1">ID: </tspan>Iron Deficient</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="31.354063"
+       y="127.4434"
+       id="text19594-1-2-7-7-6-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-7-4-2-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="31.354063"
+         y="127.4434">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="66.979233"
+       y="127.23648"
+       id="text19594-1-2-7-7-6-9-93-5"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-7-4-2-79-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="66.979233"
+         y="127.23648">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="103.08369"
+       y="126.70319"
+       id="text19594-1-2-7-7-6-9-93-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-7-4-2-79-4-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="103.08369"
+         y="126.70319">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="138.71613"
+       y="127.02845"
+       id="text19594-1-2-7-7-6-9-93-0-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-7-4-2-79-4-9-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="138.71613"
+         y="127.02845">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="37.693356"
+       y="120.78294"
+       id="text19594-1-2-7-7-6-9-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-7-4-2-7-1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="37.693356"
+         y="120.78294">3hrs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
+       x="44.062649"
+       y="93.713417"
+       id="text19594-1-2-7-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan19592-0-27-7-0-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="44.062649"
+         y="93.713417">E14.5 Wild-Type Mouse Primary Neuron Cultures</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       x="-115.6283"
+       y="35.312912"
+       id="text20635-7-5"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20633-5-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.3"
+         x="-115.6283"
+         y="35.312912">Plating Media</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;inline-size:10.0618;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       x="14.181009"
+       y="186.31049"
+       id="text20635-1-0"
+       transform="translate(6.3284761,-65.978947)"><tspan
+         x="14.181009"
+         y="186.31049"
+         id="tspan29258">Days </tspan><tspan
+         x="14.181009"
+         y="190.27923"
+         id="tspan29262"><tspan
+   style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+   id="tspan29260">in vitro</tspan> </tspan><tspan
+         x="14.181009"
+         y="194.24798"
+         id="tspan29264">(DIV)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#fefefe;fill-opacity:1;stroke:#666666;stroke-width:0.177;stroke-dasharray:none;stroke-opacity:1"
+       x="36.532185"
+       y="164.58008"
+       id="text27039"><tspan
+         sodipodi:role="line"
+         id="tspan27037"
+         style="stroke-width:0.177"
+         x="36.532185"
+         y="164.58008" /></text>
+  </g>
+</svg>

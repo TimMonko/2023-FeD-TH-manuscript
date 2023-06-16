@@ -26,9 +26,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="5.605836"
-     inkscape:cx="254.19937"
-     inkscape:cy="157.51442"
+     inkscape:zoom="3.9639247"
+     inkscape:cx="203.58611"
+     inkscape:cy="172.30398"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="3829"
@@ -804,22 +804,15 @@
       </g>
     </g>
     <g
-       id="legend_1">
+       id="legend_1"
+       transform="translate(-80.442342,61.113674)">
       <g
-         id="patch_7">
+         id="patch_7"
+         transform="matrix(1.0018765,0,0,0.78476365,-0.66278593,29.735171)">
         <path
-           d="M 325.22 137.888047  L 381.199687 137.888047  Q 383.399687 137.888047 383.399687 135.688047  L 383.399687 73.634141  Q 383.399687 71.434141 381.199687 71.434141  L 325.22 71.434141  Q 323.02 71.434141 323.02 73.634141  L 323.02 135.688047  Q 323.02 137.888047 325.22 137.888047  z "
-           style="fill: #eaeaf2; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"
+           d="m 325.22,137.88805 h 55.97969 q 2.2,0 2.2,-2.2 V 73.634141 q 0,-2.2 -2.2,-2.2 H 325.22 q -2.2,0 -2.2,2.2 v 62.053909 q 0,2.2 2.2,2.2 z"
+           style="opacity:0.8;fill:#eaeaf2;stroke:#cccccc;stroke-linejoin:miter"
            id="path18828" />
-      </g>
-      <g
-         id="text_24">
-        <text
-           style="fill: #262626; font: 12px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start"
-           x="348.542969"
-           y="84.423516"
-           transform="rotate(-0 348.542969 84.423516)"
-           id="text18831">tx</text>
       </g>
       <g
          id="PathCollection_2">
@@ -827,26 +820,25 @@
            id="defs18835">
           <path
              id="m6a2479368e"
-             d="M 0 5  C 1.326016 5 2.597899 4.473168 3.535534 3.535534  C 4.473168 2.597899 5 1.326016 5 0  C 5 -1.326016 4.473168 -2.597899 3.535534 -3.535534  C 2.597899 -4.473168 1.326016 -5 0 -5  C -1.326016 -5 -2.597899 -4.473168 -3.535534 -3.535534  C -4.473168 -2.597899 -5 -1.326016 -5 0  C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534  C -2.597899 4.473168 -1.326016 5 0 5  z "
-             style="stroke: #0173b2; stroke-width: 0.75" />
+             d="M 0,5 C 1.326016,5 2.597899,4.473168 3.535534,3.535534 4.473168,2.597899 5,1.326016 5,0 5,-1.326016 4.473168,-2.597899 3.535534,-3.535534 2.597899,-4.473168 1.326016,-5 0,-5 -1.326016,-5 -2.597899,-4.473168 -3.535534,-3.535534 -4.473168,-2.597899 -5,-1.326016 -5,0 -5,1.326016 -4.473168,2.597899 -3.535534,3.535534 -2.597899,4.473168 -1.326016,5 0,5 Z"
+             style="stroke:#0173b2;stroke-width:0.75" />
         </defs>
         <g
            id="g18839">
           <use
              xlink:href="#m6a2479368e"
-             x="338.42"
+             x="338.42001"
              y="97.294609"
-             style="fill: #0173b2; fill-opacity: 0.2; stroke: #0173b2; stroke-width: 0.75"
+             style="fill:#0173b2;fill-opacity:0.2;stroke:#0173b2;stroke-width:0.75"
              id="use18837" />
         </g>
       </g>
       <g
          id="text_25">
         <text
-           style="fill: #262626; font: 11px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:normal;font-family:Arial, 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif;text-anchor:start;fill:#262626"
            x="358.22"
-           y="100.182109"
-           transform="rotate(-0 358.22 100.182109)"
+           y="100.18211"
            id="text18842">FeS</text>
       </g>
       <g
@@ -855,26 +847,25 @@
            id="defs18846">
           <path
              id="m46a12a93bd"
-             d="M 0 -5  L -5 5  L 5 5  z "
-             style="stroke: #de8f05; stroke-width: 0.75" />
+             d="M 0,-5 -5,5 H 5 Z"
+             style="stroke:#de8f05;stroke-width:0.75" />
         </defs>
         <g
            id="g18850">
           <use
              xlink:href="#m46a12a93bd"
-             x="338.42"
-             y="112.854453"
-             style="fill: #de8f05; fill-opacity: 0.2; stroke: #de8f05; stroke-width: 0.75"
+             x="338.42001"
+             y="112.85445"
+             style="fill:#de8f05;fill-opacity:0.2;stroke:#de8f05;stroke-width:0.75"
              id="use18848" />
         </g>
       </g>
       <g
          id="text_26">
         <text
-           style="fill: #262626; font: 11px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:normal;font-family:Arial, 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif;text-anchor:start;fill:#262626"
            x="358.22"
-           y="115.741953"
-           transform="rotate(-0 358.22 115.741953)"
+           y="115.74195"
            id="text18853">FeD</text>
       </g>
       <g
@@ -883,26 +874,25 @@
            id="defs18857">
           <path
              id="m578300e0aa"
-             d="M -5 5  L 5 5  L 5 -5  L -5 -5  z "
-             style="stroke: #029e73; stroke-width: 0.75" />
+             d="M -5,5 H 5 V -5 H -5 Z"
+             style="stroke:#029e73;stroke-width:0.75" />
         </defs>
         <g
            id="g18861">
           <use
              xlink:href="#m578300e0aa"
-             x="338.42"
-             y="128.414297"
-             style="fill: #029e73; fill-opacity: 0.2; stroke: #029e73; stroke-width: 0.75"
+             x="338.42001"
+             y="128.41429"
+             style="fill:#029e73;fill-opacity:0.2;stroke:#029e73;stroke-width:0.75"
              id="use18859" />
         </g>
       </g>
       <g
          id="text_27">
         <text
-           style="fill: #262626; font: 11px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:normal;font-family:Arial, 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif;text-anchor:start;fill:#262626"
            x="358.22"
-           y="131.301797"
-           transform="rotate(-0 358.22 131.301797)"
+           y="131.3018"
            id="text18864">FeR</text>
       </g>
     </g>

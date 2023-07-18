@@ -26,8 +26,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.0152929"
-     inkscape:cx="217.58623"
-     inkscape:cy="340.64527"
+     inkscape:cx="155.56051"
+     inkscape:cy="341.14148"
      inkscape:window-width="2363"
      inkscape:window-height="1673"
      inkscape:window-x="4884"
@@ -4985,15 +4985,15 @@
        transform="matrix(1.0816384,0,0,1.0816384,-37.938254,-236.14979)"><tspan
          x="56.659054"
          y="263.38339"
-         id="tspan12382"><tspan
+         id="tspan6846"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan12380">Establishment of axon
+           id="tspan6844">Establishment of axon
 </tspan></tspan><tspan
          x="56.659054"
          y="266.47018"
-         id="tspan12386"><tspan
+         id="tspan6850"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan12384">and dendrites</tspan></tspan></text><text
+           id="tspan6848">and dendrites</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:35.0319;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
        x="72.553429"
@@ -5002,15 +5002,15 @@
        transform="matrix(1.0816384,0,0,1.0816384,9.0801018,-236.16153)"><tspan
          x="72.553429"
          y="263.38339"
-         id="tspan12390"><tspan
+         id="tspan6854"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan12388">Peak dendritic growth and
+           id="tspan6852">Peak dendritic growth and
 </tspan></tspan><tspan
          x="72.553429"
          y="266.47018"
-         id="tspan12394"><tspan
+         id="tspan6858"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan12392">synapse formation</tspan></tspan></text><text
+           id="tspan6856">synapse formation</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:18.3086;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300001;stroke-dasharray:none;stroke-opacity:1"
        x="77.532967"
@@ -5019,15 +5019,15 @@
        transform="matrix(1.0816384,0,0,1.0816384,50.393253,-236.14979)"><tspan
          x="77.532967"
          y="263.38339"
-         id="tspan12398"><tspan
+         id="tspan6862"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan12396">Mature
+           id="tspan6860">Mature
 </tspan></tspan><tspan
          x="77.532967"
          y="266.47018"
-         id="tspan12402"><tspan
+         id="tspan6866"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan12400">Neuron</tspan></tspan></text><text
+           id="tspan6864">Neuron</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.4342px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.324493;stroke-dasharray:none;stroke-opacity:1"
        x="1.6898279"
@@ -5092,9 +5092,9 @@
        transform="matrix(1.0816384,0,0,1.0816384,-9.2636677,-157.85157)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12406">Days in vitro <tspan
+         id="tspan6870">Days in vitro <tspan
    style="font-weight:bold;-inkscape-font-specification:'Calibri Bold'"
-   id="tspan12404">(DIV)</tspan></tspan></text><text
+   id="tspan6868">(DIV)</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:33.4313;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        x="14.181009"
@@ -5103,7 +5103,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,14.39194,-157.65539)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12408">0</tspan></text><text
+         id="tspan6872">0</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:33.4313;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        x="14.181009"
@@ -5112,7 +5112,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,31.200378,-157.55078)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12410">3</tspan></text><text
+         id="tspan6874">3</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:33.4313;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        x="14.181009"
@@ -5121,7 +5121,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,87.14833,-157.71205)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12412">14</tspan></text><text
+         id="tspan6876">14</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:33.4313;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        x="14.181009"
@@ -5130,9 +5130,9 @@
        transform="matrix(1.0816384,0,0,1.0816384,70.093409,-157.702)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12416"><tspan
+         id="tspan6880"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Calibri Bold'"
-           id="tspan12414">11</tspan></tspan></text><text
+           id="tspan6878">11</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:76.4617;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        x="14.181009"
@@ -5141,7 +5141,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,18.259227,-165.10088)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12418">Iron Sufficient Glia Conditioned Media</tspan></text><path
+         id="tspan6882">Iron Sufficient Glia Conditioned Media</tspan></text><path
        style="fill:#000000;fill-opacity:1;stroke:#de8f05;stroke-width:0.432656;stroke-dasharray:none;stroke-opacity:1"
        d="m 30.612048,18.363554 v 5.364927"
        id="path5908-5-3-8-1-2"
@@ -5154,7 +5154,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,35.340119,-179.19156)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12420">+DFO</tspan></text><g
+         id="tspan6884">+DFO</tspan></text><g
        id="g9096-4-1-4"
        transform="matrix(1.058277,0,0,1.25592,1.2701026,-22.251395)"><path
          style="fill:#000000;fill-opacity:1;stroke:#de8f05;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
@@ -5172,7 +5172,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,35.340119,-171.63497)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12422">+DFO</tspan></text><path
+         id="tspan6886">+DFO</tspan></text><path
        style="fill:#000000;fill-opacity:1;stroke:#029e73;stroke-width:0.432656;stroke-dasharray:none;stroke-opacity:1"
        d="m 30.612048,25.920107 v 5.36497"
        id="path5908-5-3-4-0-9-8"
@@ -5194,7 +5194,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,92.525729,-171.63497)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12424">-DFO +Vehicle</tspan></text><g
+         id="tspan6888">-DFO +Vehicle</tspan></text><g
        id="g9096-4-1-2-4-2"
        transform="matrix(1.058277,0,0,1.25592,58.455775,-14.694798)"><path
          style="fill:#000000;fill-opacity:1;stroke:#029e73;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
@@ -5216,7 +5216,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,35.340118,-186.87145)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12426">+Vehicle</tspan></text><text
+         id="tspan6890">+Vehicle</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:76.4617;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        x="14.181009"
@@ -5225,7 +5225,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,117.3162,-194.04514)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12428"># qPCR, * ATP</tspan></text><text
+         id="tspan6892"># qPCR, * ATP</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:76.4617;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        x="14.181009"
@@ -5234,7 +5234,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,129.23404,-171.7628)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12430">#*</tspan></text><text
+         id="tspan6894">#*</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:76.4617;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        x="14.181009"
@@ -5243,7 +5243,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,129.23404,-179.4963)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12432">#*</tspan></text><text
+         id="tspan6896">#*</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:76.4617;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        x="14.181009"
@@ -5252,7 +5252,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,129.23404,-187.22979)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12434">#*</tspan></text><text
+         id="tspan6898">#*</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:76.4617;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        x="14.181009"
@@ -5261,7 +5261,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,112.17655,-187.11339)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12436">#</tspan></text><text
+         id="tspan6900">#</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:76.4617;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        x="14.181009"
@@ -5270,7 +5270,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,112.17655,-179.35705)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12438">#</tspan></text><text
+         id="tspan6902">#</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:76.4617;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        x="14.181009"
@@ -5279,7 +5279,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,72.729375,-179.34358)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12440">#</tspan></text><text
+         id="tspan6904">#</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:76.4617;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        x="14.181009"
@@ -5288,7 +5288,7 @@
        transform="matrix(1.0816384,0,0,1.0816384,72.729375,-187.33631)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12442">#</tspan></text><g
+         id="tspan6906">#</tspan></text><g
        id="g9096-9-7-1"
        transform="matrix(1.058277,0,0,1.25592,1.2701026,-30.021203)"><g
          id="g10145-7-5"><path
@@ -5353,9 +5353,9 @@
        transform="matrix(1.0816384,0,0,1.0816384,109.75112,-157.70953)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12446"><tspan
+         id="tspan6910"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Calibri Bold'"
-           id="tspan12444">18</tspan></tspan></text><text
+           id="tspan6908">18</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;inline-size:33.4313;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        x="14.181009"
@@ -5364,9 +5364,9 @@
        transform="matrix(1.0816384,0,0,1.0816384,126.79139,-157.67098)"><tspan
          x="14.181009"
          y="186.31049"
-         id="tspan12450"><tspan
+         id="tspan6914"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Calibri Bold'"
-           id="tspan12448">21</tspan></tspan></text><g
+           id="tspan6912">21</tspan></tspan></text><g
        id="patch_8"
        style="stroke-linecap:butt;stroke-linejoin:round"
        transform="matrix(0.23928096,0,0,0.23928096,0.36838106,59.276805)"><path
@@ -5514,7 +5514,7 @@
          id="tspan2059-6"
          style="font-style:normal;font-weight:bold;font-size:3.88056px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
          x="123.8378"
-         y="59.480225">T3</tspan></text><text
+         y="59.480225">Extracellular T3</tspan></text><text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text100638"
